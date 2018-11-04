@@ -1,0 +1,1 @@
+INSERT INTO `atividade-jpa`.local_evento (id, city, end, start) VALUES (1, 'guarapuava', '2018-12-01', '2018-11-03');
